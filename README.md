@@ -1,4 +1,4 @@
-# TIA-Portal---Factory-I-O
+# TIA Portal And FactoryIO
 Final Thesis
 
 This project aims to replace the declining manpower with smart factories that work with fully autonomous systems through simulation modeling studies that keep pace with emerging technology. 
